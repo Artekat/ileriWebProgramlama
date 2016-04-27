@@ -5,7 +5,8 @@ body, .tooltip, select.menuBtn {
 	font-weight: normal;
 	line-height: normal;
 	letter-spacing: normal;
-	background-color:yellow;
+	background-color:pink;
+	font-style: italic;
 }
 
 html {
